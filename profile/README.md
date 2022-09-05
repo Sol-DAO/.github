@@ -1,3 +1,3 @@
 # SolDAO
 
-Is a DAO dedicated to advancing Solidity and deploying optimized contract public goods.
+Dedicated to advancing Solidity and deploying optimized contracts as public goods.
